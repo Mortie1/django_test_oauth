@@ -4,7 +4,7 @@
 
 1) Склонируй репозиторий
 2) Зайди в репозиторий (```cd django_test_oauth```)
-3) Создай виртуальное окружение - [windows](https://mothergeo-py.readthedocs.io/en/latest/development/how-to/venv-win.html), [linux](https://netpoint-dc.com/blog/python-venv-ubuntu-1804/) (опционально)
+3) (опционально) Создай виртуальное окружение - [windows](https://mothergeo-py.readthedocs.io/en/latest/development/how-to/venv-win.html), [linux](https://netpoint-dc.com/blog/python-venv-ubuntu-1804/) 
 4) Установи необходимые библиотеки (```pip install -r requirements.txt```)
 5) Зайди в папку с проектом Django (```cd oauth_sandbox```)
 6) Создай миграции (```python manage.py makemigrations```)
